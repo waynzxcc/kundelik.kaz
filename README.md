@@ -1,0 +1,2 @@
+# kundelik.kaz
+kundelik
